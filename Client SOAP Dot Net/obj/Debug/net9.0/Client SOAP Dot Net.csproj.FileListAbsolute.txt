@@ -1,0 +1,60 @@
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.csproj.AssemblyReference.cache
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.AssemblyInfoInputs.cache
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.AssemblyInfo.cs
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.csproj.CoreCompileInputs.cache
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Client SOAP Dot Net.exe
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Client SOAP Dot Net.deps.json
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Client SOAP Dot Net.runtimeconfig.json
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Client SOAP Dot Net.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Client SOAP Dot Net.pdb
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.Private.ServiceModel.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.ServiceModel.Duplex.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.ServiceModel.Federation.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.ServiceModel.Http.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.ServiceModel.NetTcp.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.ServiceModel.Primitives.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.ServiceModel.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\System.ServiceModel.Security.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\de\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\es\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\it\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\saade\Client SOAP Dot Net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client S.6C125391.Up2Date
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.dll
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\refint\Client SOAP Dot Net.dll
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.pdb
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\Client SOAP Dot Net.genruntimeconfig.cache
+C:\Users\saade\Client SOAP Dot Net\obj\Debug\net9.0\ref\Client SOAP Dot Net.dll
